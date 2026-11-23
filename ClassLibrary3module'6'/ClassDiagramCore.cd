@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Restaurant.Core.Courier">
-    <Position X="14.75" Y="3" Width="1.5" />
+    <Position X="15" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACIAAAAAAAAAAEAAAAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Courier.cs</FileName>
@@ -60,7 +60,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="Restaurant.Core.TableAlreadyReservedException">
-    <Position X="12.5" Y="3" Width="1.5" />
+    <Position X="12.25" Y="3" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TableAlreadyReservedException.cs</FileName>
